@@ -22,6 +22,7 @@ writeupはブログやgistに上げています。
 * CODE BLUE CTF
 
 ### 受賞・入賞
+* DEF CON CTF 2019 Finals 14th place
 * 0CTF/TCTF 2019 Finals 5th place
 * Baidu CTF 2019 1st place
 * WCTF 2018 1st place
