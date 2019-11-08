@@ -22,6 +22,7 @@ writeupはブログやgistに上げています。
 * CODE BLUE CTF
 
 ### 受賞・入賞
+* Google Capture The Flag 2019 (Finals) 10th place
 * DEF CON CTF 2019 Finals 14th place
 * 0CTF/TCTF 2019 Finals 5th place
 * Baidu CTF 2019 1st place
@@ -33,3 +34,4 @@ writeupはブログやgistに上げています。
 * SECCON2017 国内決勝大会 優勝
 * WCTF 2017 2nd place
 * Trend Micro CTF 2017 finals 7th place
+* HITCON CTF 2017 Final 6th place
