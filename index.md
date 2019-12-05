@@ -3,6 +3,7 @@
 ## プロフィール
 濱田 槙亮 (はまだ しんすけ) | Shinsuke HAMADA
 
+社会人です。
 たまにCapture The Flagをやっています。
 writeupはブログやgistに上げています。
 [TokyoWesterns](https://ctftime.org/team/12599)というチームに所属しています。
