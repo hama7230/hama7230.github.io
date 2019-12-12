@@ -23,6 +23,7 @@ writeupはブログやgistに上げています。
 * CODE BLUE CTF
 
 ### 受賞・入賞
+* Real World CTF 2019 Finals 12th place
 * Google Capture The Flag 2019 (Finals) 10th place
 * DEF CON CTF 2019 Finals 14th place
 * 0CTF/TCTF 2019 Finals 5th place
