@@ -23,6 +23,7 @@ writeupはブログやgistに上げています。
 * CODE BLUE CTF
 
 ### 受賞・入賞
+* SECCON CTF 2023 Finals International 10th (as ierae)
 * SECCON 2019 Final International competition 14th (as AsiaEasterns)
 * HITCON CTF 2019 Final 3rd place
 * Real World CTF 2019 Finals 12th place
