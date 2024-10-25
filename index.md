@@ -4,6 +4,7 @@
 濱田 槙亮 (はまだ しんすけ) | Shinsuke HAMADA
 
 社会人です。
+GMOサイバーセキュリティ byイエラエに所属しています。
 たまにCapture The Flagをやっています。
 writeupはブログやgistに上げています。
 [TokyoWesterns](https://ctftime.org/team/12599)というチームに所属しています。
@@ -23,6 +24,7 @@ writeupはブログやgistに上げています。
 * CODE BLUE CTF
 
 ### 受賞・入賞
+* Automotive CTF 2024 Finals 2nd (as ierae)
 * SECCON CTF 2023 Finals International 10th (as ierae)
 * SECCON 2019 Final International competition 14th (as AsiaEasterns)
 * HITCON CTF 2019 Final 3rd place
