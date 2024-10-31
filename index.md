@@ -24,21 +24,23 @@ writeupはブログやgistに上げています。
 * CODE BLUE CTF
 
 ### 受賞・入賞
-* Automotive CTF 2024 Finals 2nd (as ierae)
-* SECCON CTF 2023 Finals International 10th (as ierae)
-* SECCON 2019 Final International competition 14th (as AsiaEasterns)
-* HITCON CTF 2019 Final 3rd place
-* Real World CTF 2019 Finals 12th place
-* Google Capture The Flag 2019 (Finals) 10th place
-* DEF CON CTF 2019 Finals 14th place
-* 0CTF/TCTF 2019 Finals 5th place
-* Baidu CTF 2019 1st place
-* WCTF 2018 1st place
-* DEF CON CTF 2018 Finals 17th place
-* Kaspersky Industrial CTF 2018 Finals 2nd place
-* 0CTF/TCTF 2018 Finals 6th place
-* Codegate CTF 2018 Finals 3rd place
-* SECCON2017 国内決勝大会 優勝
-* WCTF 2017 2nd place
-* Trend Micro CTF 2017 finals 7th place
-* HITCON CTF 2017 Final 6th place
+* 1st place on Hack the DRONE CTF 2024 Finals (as ierae)
+* 2nd place on Automotive CTF 2024 Finals (as ierae)
+* 1st place on Automotive CTF Japan 2024 Finals (as ierae)
+* 10th place on SECCON CTF 2023 Finals International (as ierae)
+* 14th place on SECCON 2019 Final International competition (as AsiaEasterns)
+* 3rd place on HITCON CTF 2019 Final 
+* 12th place on Real World CTF 2019 Finals
+* 10th place on Google Capture The Flag 2019 (Finals)
+* 14th place on DEF CON CTF 2019 Finals
+* 5th place on 0CTF/TCTF 2019 Finals 
+* 1st place on Baidu CTF 2019 
+* 1st place on WCTF 2018 
+* 17th place on DEF CON CTF 2018 Finals 
+* 2nd place on Kaspersky Industrial CTF 2018 Finals 
+* 6th place on 0CTF/TCTF 2018 Finals
+* 3rd place on Codegate CTF 2018 Finals 
+* 優勝 SECCON2017 国内決勝大会
+* 2nd place on WCTF 2017 
+* 7th place on Trend Micro CTF 2017 finals
+* 6th place on HITCON CTF 2017 Final 
