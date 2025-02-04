@@ -19,6 +19,12 @@ writeupはブログやgistに上げています。
 
 
 ## 活動
+### デモンストレーション
+* Pwn2Own Automotive 2025
+  * [Kenwood DMX958XR](https://x.com/thezdi/status/1881930517433741495)
+  * [Alpine iLX-507](https://x.com/thezdi/status/1882301355630686278)
+  * 
+
 ### 運営
 * TokyoWesterns CTF 
 * CODE BLUE CTF
