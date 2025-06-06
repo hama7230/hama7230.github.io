@@ -21,8 +21,8 @@ writeupはブログやgistに上げています。
 ## 活動
 ### 出場・デモ
 * Pwn2Own Automotive 2025
-  * [Kenwood DMX958XR](https://x.com/thezdi/status/1881930517433741495)
-  * [Alpine iLX-507](https://x.com/thezdi/status/1882301355630686278)
+  * [Kenwood DMX958XR](https://x.com/thezdi/status/1881930517433741495) (assinged to ZDI-CAN-26312)
+  * [Alpine iLX-507](https://x.com/thezdi/status/1882301355630686278) (assgined to ZDI-CAN-26322)
   * 報奨金を合計2万ドル獲得
   
 ### 運営
