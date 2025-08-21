@@ -17,12 +17,14 @@ writeupはブログやgistに上げています。
 * gist: [hama7230](https://gist.github.com/hama7230)
 * CTFTime: [hama](https://ctftime.org/user/12698)
 
-
 ## 活動
 ### 出場・デモ
 * Pwn2Own Automotive 2025
-  * [Kenwood DMX958XR](https://x.com/thezdi/status/1881930517433741495) (assinged to ZDI-CAN-26312)
-  * [Alpine iLX-507](https://x.com/thezdi/status/1882301355630686278) (assgined to ZDI-CAN-26322)
+  * [Kenwood DMX958XR](https://x.com/thezdi/status/1881930517433741495) 
+      * [CVE-2025-8653](https://www.zerodayinitiative.com/advisories/ZDI-25-801/)
+  * [Alpine iLX-507](https://x.com/thezdi/status/1882301355630686278)
+      * [CVE-2025-8476](https://www.zerodayinitiative.com/advisories/ZDI-25-765/)  
+      * [CVE-2025-8480](https://www.zerodayinitiative.com/advisories/ZDI-25-766/)
   * 報奨金を合計2万ドル獲得
   
 ### 運営
